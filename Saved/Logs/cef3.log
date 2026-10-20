@@ -1,0 +1,7 @@
+[17280:33040:1019/143702.077:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17280:33040:1019/143702.319:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17280:33040:1019/143708.155:ERROR:device_event_log_impl.cc(196)] [14:37:08.090] USB: usb_service_win.cc:445 Failed to parse device interface GUID:
+[27416:10404:1019/143708.658:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C2BA2FD509ABFE598F7B170764FA3C18 will be ignored
+[17280:33040:1019/144054.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17280:33040:1019/144059.647:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17280:33040:1019/144350.464:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
