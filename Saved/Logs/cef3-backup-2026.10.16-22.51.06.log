@@ -1,8 +1,0 @@
-[14528:42112:1016/095916.824:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14528:42112:1016/095916.951:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[14528:42112:1016/095917.137:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[35164:14344:1016/095932.528:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A1D24F1B080E88F0BDD030E32857045C will be ignored
-[14528:42112:1016/100110.056:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[14528:29916:1016/105848.067:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[40844:45788:1016/105848.067:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[14528:42112:1016/155106.455:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
